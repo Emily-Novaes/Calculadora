@@ -1,4 +1,4 @@
-# 🧮 Calculadora
+# 📟 Calculadora
 Projeto de uma calculadora simples desenvolvida em Java, utilizando a IDE **NetBeans**. Realiza operações básicas de matemática, como: Adição (+), Subtração (−), Multiplicação (×), Divisão (÷).
 
 
@@ -7,6 +7,6 @@ Projeto de uma calculadora simples desenvolvida em Java, utilizando a IDE **NetB
 - Maven
 - NetBeans 26
 
-## ✍🏻 Autora
+## 👩‍💻 Autora
 - **Emily Novaes**
 - [GitHub](https://github.com/Emily-Novaes)
